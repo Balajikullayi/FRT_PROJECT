@@ -1,6 +1,6 @@
 # FRT_PROJECT
 # frt_project
-#------>EXPLORE TO LATEST NEWS-----#
+#------>EXPLORE TO Knoledge-----#
 #this is a web based news exploring site
 #every individual can post news like feed and visit vaious feed
 
@@ -31,3 +31,26 @@ HTML
 CSS
 Bootstrap
 JavaScript
+
+![Screenshot (174)](https://user-images.githubusercontent.com/112794668/197939226-82443388-e8ba-4ae0-9962-f0f1350a00f0.png)
+
+
+
+![Screenshot (175)](https://user-images.githubusercontent.com/112794668/197939236-1cbfd8e4-e01e-43cc-8b04-fc312bdf7641.png)
+
+
+
+![Screenshot (176)](https://user-images.githubusercontent.com/112794668/197939256-5e092558-06bb-44e1-b33a-08f8cb5a10cc.png)
+
+
+
+
+![Screenshot (177)](https://user-images.githubusercontent.com/112794668/197939278-c34b17a1-c676-4a8d-a500-28d9d0f5c81e.png)
+
+
+![Screenshot (178)](https://user-images.githubusercontent.com/112794668/197939292-70a71f7a-16c7-4d2e-b834-d4543044c196.png)
+
+
+
+
+
