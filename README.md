@@ -1,6 +1,6 @@
 # FRT_PROJECT
 # frt_project
-#------>EXPLORE TO Knoledge-----#
+#------>EXPLORE TO Knowledge-----#
 #this is a web based news exploring site
 #every individual can post news like feed and visit vaious feed
 
