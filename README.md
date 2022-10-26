@@ -36,9 +36,12 @@ JavaScript
 
 
 
+you can use search bar to search the tpoic that you were interested
+
 ![Screenshot (175)](https://user-images.githubusercontent.com/112794668/197939236-1cbfd8e4-e01e-43cc-8b04-fc312bdf7641.png)
 
 
+this website allows you to share the post in other social media platforms
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/112794668/197939256-5e092558-06bb-44e1-b33a-08f8cb5a10cc.png)
 
@@ -48,7 +51,13 @@ JavaScript
 ![Screenshot (177)](https://user-images.githubusercontent.com/112794668/197939278-c34b17a1-c676-4a8d-a500-28d9d0f5c81e.png)
 
 
-![Screenshot (178)](https://user-images.githubusercontent.com/112794668/197939292-70a71f7a-16c7-4d2e-b834-d4543044c196.png)
+you can post your research topic...and it helps to increase your community
+
+![Screenshot (179)](https://user-images.githubusercontent.com/112794668/198017173-5c306279-8959-4d40-a966-0982381124f2.png)
+
+
+
+
 
 
 
