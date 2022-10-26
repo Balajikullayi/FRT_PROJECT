@@ -4,7 +4,7 @@
 #this is a web based news exploring site
 #every individual can post news like feed and visit vaious feed
 
-###EXPLORE TO LATEST NEWS
+###EXPLORE TO LATEST Technologies
 This is a web based application developed for exploring news feed 24/7
 
 This web based  application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
