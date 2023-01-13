@@ -3,7 +3,7 @@
 #------>EXPLORE TO Knowledge-----#
 #this is a web based news exploring site
 #every individual can post news like feed and visit vaious feed
-
+I am editing the README file. Adding some more details about the project description.
 ###EXPLORE TO LATEST Technologies
 This is a web based application developed for exploring news feed 24/7
 
